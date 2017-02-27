@@ -1,5 +1,3 @@
-<script type="text/javascript">
-    
 //declared variables that start the game    
 var artistNames = ["degas", "davinci", "basquiat", "kaws"];
 
@@ -101,7 +99,6 @@ document.onkeydown = function(event) {
 
 };
 
-     //how do I add on letters for each time a guess is made?
 
 
 
@@ -119,6 +116,3 @@ document.onkeypress = function() {
  
 };
 
-
-
-</script> 
